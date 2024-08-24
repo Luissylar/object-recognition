@@ -1,0 +1,5 @@
+kivy
+opencv-python
+tensorflow
+numpy
+buildozer
